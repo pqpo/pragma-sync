@@ -1,0 +1,15 @@
+apiVersion: pragma/v5
+kind: RuntimeProfile
+metadata:
+  id: s12nr3jczzd57ad3
+  name: 测试专家 Runtime
+  description: Runtime profile for 测试专家.
+  tags:
+    - desktop-managed
+spec:
+  adapter: pragma.runtime.profile@v1
+  config:
+    runtimeId: codex
+    providerId: openai
+    model: gpt-5.6-luna
+    thinkingLevel: high

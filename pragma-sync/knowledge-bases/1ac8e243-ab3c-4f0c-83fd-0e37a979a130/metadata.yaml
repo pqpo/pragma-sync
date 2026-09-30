@@ -1,0 +1,21 @@
+id: 1ac8e243-ab3c-4f0c-83fd-0e37a979a130
+name: test
+description: test
+directories:
+  - items
+files:
+  - id: index.md
+    metadata:
+      description: 测试索引页，链接到示例条目
+      trigger: manual
+      priority: normal
+  - id: items/example.md
+    metadata:
+      description: 示例条目文档，用于验证 Context Store 修订功能
+      trigger: model_decision
+      priority: normal
+  - id: items/test-note.md
+    metadata:
+      description: 修订功能测试文档，记录通过稀疏草稿新增条目的验证要点与草稿 ID；用于确认 Context Store 修订流程可用。
+      trigger: model_decision
+      priority: normal

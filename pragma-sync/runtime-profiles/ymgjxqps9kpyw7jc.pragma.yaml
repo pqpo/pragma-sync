@@ -1,0 +1,15 @@
+apiVersion: pragma/v5
+kind: RuntimeProfile
+metadata:
+  id: ymgjxqps9kpyw7jc
+  name: 研发调研专家 Runtime
+  description: Runtime profile for 研发调研专家.
+  tags:
+    - desktop-managed
+spec:
+  adapter: pragma.runtime.profile@v1
+  config:
+    runtimeId: codex
+    providerId: openai
+    model: gpt-5.6-sol
+    thinkingLevel: high

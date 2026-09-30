@@ -1,0 +1,14 @@
+apiVersion: pragma/v5
+kind: RuntimeProfile
+metadata:
+  id: 7597hbtmpb06cj1d
+  name: CR专家 Runtime
+  description: Runtime profile for CR专家.
+  tags:
+    - desktop-managed
+spec:
+  adapter: pragma.runtime.profile@v1
+  config:
+    runtimeId: antigravity
+    providerId: antigravity
+    model: gemini-3.8-flash-high

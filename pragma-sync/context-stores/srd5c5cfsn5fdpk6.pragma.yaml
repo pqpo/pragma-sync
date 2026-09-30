@@ -1,0 +1,13 @@
+apiVersion: pragma/v5
+kind: ContextStore
+metadata:
+  id: srd5c5cfsn5fdpk6
+  name: 测试知识库
+  description: 用于验证知识库新建功能的测试知识库，仅包含一个说明文件。
+  tags:
+    - desktop-managed
+spec:
+  adapter: pragma.context.host@v1
+  binding: binding:desktop-context.M2NiNDUwOTgtODM3ZS04OTRjLWI1ZGYtMTRjY2NmM2FhMTNj
+  config:
+    key: 3cb45098-837e-894c-b5df-14cccf3aa13c

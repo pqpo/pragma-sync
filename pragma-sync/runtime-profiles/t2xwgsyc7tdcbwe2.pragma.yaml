@@ -1,0 +1,14 @@
+apiVersion: pragma/v5
+kind: RuntimeProfile
+metadata:
+  id: t2xwgsyc7tdcbwe2
+  name: 项目经理 Runtime
+  description: Runtime profile for 项目经理.
+  tags:
+    - desktop-managed
+spec:
+  adapter: pragma.runtime.profile@v1
+  config:
+    runtimeId: pi
+    providerId: 9e1c5e1f-0ce1-4160-9e31-69e444a6faef
+    model: deepseek-v4-flash

@@ -1,0 +1,4 @@
+id: 1a535e38-00cd-83a4-9061-f8a7af90f090
+name: test-greeting
+description: A minimal test Skill for validating the Skill revision workflow.
+entryPath: SKILL.md

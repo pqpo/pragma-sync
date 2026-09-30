@@ -1,0 +1,15 @@
+apiVersion: pragma/v5
+kind: RuntimeProfile
+metadata:
+  id: qvdbfht1zrjsmwcp
+  name: Antigravity CLI / Claude Opus 4.6 (Thinking)
+  description: Host-provided Runtime model Antigravity / Claude Opus 4.6 (Thinking).
+  tags:
+    - desktop-managed
+    - default-agent-option
+spec:
+  adapter: pragma.runtime.profile@v1
+  config:
+    runtimeId: antigravity
+    providerId: antigravity
+    model: claude-opus-4-6-thinking

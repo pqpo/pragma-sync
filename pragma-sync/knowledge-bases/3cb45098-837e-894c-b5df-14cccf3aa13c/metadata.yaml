@@ -1,0 +1,10 @@
+id: 3cb45098-837e-894c-b5df-14cccf3aa13c
+name: 测试知识库
+description: 用于验证知识库新建功能的测试知识库，仅包含一个说明文件。
+directories: []
+files:
+  - id: overview.md
+    metadata:
+      description: 测试知识库的唯一说明文件：说明该知识库用于验证新建功能，为最小示例，不含正式业务知识。
+      trigger: model_decision
+      priority: normal
