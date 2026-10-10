@@ -1,0 +1,14 @@
+apiVersion: pragma/v5
+kind: RuntimeProfile
+metadata:
+  id: 8c38x7xfn92k0df1
+  name: 小说创作专家 Runtime
+  description: Runtime profile for 小说创作专家.
+  tags:
+    - desktop-managed
+spec:
+  adapter: pragma.runtime.profile@v1
+  config:
+    runtimeId: codex
+    providerId: openai
+    model: gpt-5.6-luna

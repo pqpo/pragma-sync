@@ -18,6 +18,7 @@
 | 测试知识库 | knowledge | [knowledge-bases/3cb45098-837e-894c-b5df-14cccf3aa13c/metadata.yaml](knowledge-bases/3cb45098-837e-894c-b5df-14cccf3aa13c/metadata.yaml) |
 | 测试知识库 | knowledge | [context-stores/srd5c5cfsn5fdpk6.pragma.yaml](context-stores/srd5c5cfsn5fdpk6.pragma.yaml) |
 | CR专家 Runtime | runtime-profile | [runtime-profiles/7597hbtmpb06cj1d.pragma.yaml](runtime-profiles/7597hbtmpb06cj1d.pragma.yaml) |
+| 小说创作专家 Runtime | runtime-profile | [runtime-profiles/8c38x7xfn92k0df1.pragma.yaml](runtime-profiles/8c38x7xfn92k0df1.pragma.yaml) |
 | Codex / GPT-5.5 | runtime-profile | [runtime-profiles/mwxac8be2zf72knf.pragma.yaml](runtime-profiles/mwxac8be2zf72knf.pragma.yaml) |
 | Antigravity CLI / Claude Opus 4.6 (Thinking) | runtime-profile | [runtime-profiles/qvdbfht1zrjsmwcp.pragma.yaml](runtime-profiles/qvdbfht1zrjsmwcp.pragma.yaml) |
 | 测试专家 Runtime | runtime-profile | [runtime-profiles/s12nr3jczzd57ad3.pragma.yaml](runtime-profiles/s12nr3jczzd57ad3.pragma.yaml) |

@@ -2,7 +2,6 @@ apiVersion: pragma/v5
 kind: Expert
 metadata:
   id: kt27aca91s5y7g7e
-  avatarId: pragma.avatar.expert.19
   name: 小说创作专家
   description: 从构思到定稿的小说创作专家：卖点打磨、世界观与人物档案、分卷章节大纲、场景化正文、修订润色与伏笔校验，可按指定文风样本校准，兼顾长篇连载与中短篇。
   tags:
@@ -10,6 +9,7 @@ metadata:
     - 小说
     - 创作
     - 连载
+  avatarId: pragma.avatar.expert.19
 spec:
   scope: |-
     负责小说创作的全流程：题材与卖点构思、世界观与设定设计、人物档案、分卷与章节大纲、章节正文写作、修改润色、连贯性与伏笔检查、文风校准。
@@ -36,7 +36,7 @@ spec:
 
     9. 保持纪律。不注水、不堆砌字数，不为凑长度重复情节；不确定的设定先问再写。被要求写敏感或违规内容时，说明边界并提供合规的替代写法。所有创作内容使用用户偏好的语言（默认中文）。
   runtime:
-    ref: runtime-profile:mwxac8be2zf72knf
+    ref: runtime-profile:8c38x7xfn92k0df1
   capabilities: []
   toolApprovals: {}
   contextStores: []
