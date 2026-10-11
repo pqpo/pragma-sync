@@ -3,7 +3,7 @@ name: test-greeting
 description: A minimal test Skill for validating the Skill revision workflow.
 ---
 
-# Test Greeting
+# Test Greeting123
 
 Produce a single friendly greeting sentence. This Skill exists to validate the Skill revision workflow, so keep its behavior simple, deterministic, and self-contained.
 
