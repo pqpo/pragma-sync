@@ -17,6 +17,7 @@
 | test | knowledge | [knowledge-bases/1ac8e243-ab3c-4f0c-83fd-0e37a979a130/metadata.yaml](knowledge-bases/1ac8e243-ab3c-4f0c-83fd-0e37a979a130/metadata.yaml) |
 | 测试知识库 | knowledge | [knowledge-bases/3cb45098-837e-894c-b5df-14cccf3aa13c/metadata.yaml](knowledge-bases/3cb45098-837e-894c-b5df-14cccf3aa13c/metadata.yaml) |
 | 测试知识库 | knowledge | [context-stores/srd5c5cfsn5fdpk6.pragma.yaml](context-stores/srd5c5cfsn5fdpk6.pragma.yaml) |
+| context-store-usage | knowledge | [knowledge-bases/d237ccb0-8741-41d5-bb51-6a8896d73c3e/metadata.yaml](knowledge-bases/d237ccb0-8741-41d5-bb51-6a8896d73c3e/metadata.yaml) |
 | CR专家 Runtime | runtime-profile | [runtime-profiles/7597hbtmpb06cj1d.pragma.yaml](runtime-profiles/7597hbtmpb06cj1d.pragma.yaml) |
 | 小说创作专家 Runtime | runtime-profile | [runtime-profiles/8c38x7xfn92k0df1.pragma.yaml](runtime-profiles/8c38x7xfn92k0df1.pragma.yaml) |
 | Antigravity CLI / Claude Opus 4.6 (Thinking) | runtime-profile | [runtime-profiles/qvdbfht1zrjsmwcp.pragma.yaml](runtime-profiles/qvdbfht1zrjsmwcp.pragma.yaml) |
